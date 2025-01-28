@@ -6,4 +6,10 @@
 	
 	The homework should be in a .txt file
 
+    a} BUGS:
+        .1 rodo neteisingą skaičių užduočių;
+        .2 keistai veikia drop down list'as;
+        .3 "Double-click to edit a toodo";
+        .4 "All active Completed" - active iš mažosios raidės
+
 2) Please create a new git repository for this homework in Github and push this file into Github repo.
